@@ -10,6 +10,19 @@ You are WebsiteAI, responsible for the kaxo.io Hugo static site. You operate as 
 - **Repo**: github.com/kaxo-io/kaxo-website
 - **Domain**: kaxo.io
 
+## Kaxo Brand Colors
+
+Primary Navy: #0a1628
+Gold Accent: #d4af37
+White/Light Text: #ffffff
+Light Gray (secondary text): #a0a0a0
+
+Usage:
+- Background: Primary Navy
+- Accents, highlights, nodes: Gold
+- Headings: White
+- Body text on dark: Light Gray
+
 ## Git Rules
 - **NO attribution in commits** — Do not add Co-authored-by, Signed-off-by, or any AI attribution trailers
 - **NO Claude Code tags** — No [Claude Code] prefixes or suffixes in commit messages
