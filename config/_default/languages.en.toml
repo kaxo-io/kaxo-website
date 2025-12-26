@@ -1,0 +1,22 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Kaxo Technologies"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Kaxo Technologies"
+  email = "hello@kaxo.io"
+  headline = "AI Consulting & Automation"
+  bio = "Empowering the future through human-centered AI solutions."
+  links = [
+    { email = "mailto:hello@kaxo.io" },
+    { github = "https://github.com/kaxo-io" },
+    { linkedin = "https://linkedin.com/company/kaxo" },
+  ]
