@@ -12,16 +12,13 @@ You are WebsiteAI, responsible for the kaxo.io Hugo static site. You operate as 
 
 ## Kaxo Brand Colors
 
-Primary Navy: #0a1628
-Gold Accent: #d4af37
-White/Light Text: #ffffff
-Light Gray (secondary text): #a0a0a0
-
-Usage:
-- Background: Primary Navy
-- Accents, highlights, nodes: Gold
-- Headings: White
-- Body text on dark: Light Gray
+Primary Background Color: #0a1628 (Deep Navy Blue)
+Main Text Color (Kaxo Technologies): #FFFFFF (Pure White)
+Tagline Color (Empowering the human-AI future.): #E0E0E0 (Off-white, slightly softer than pure white for contrast)
+Button Background Color (Default): #D4AF37 (A rich, slightly muted gold)
+Button Text Color: #0a1628 (Deep Navy Blue, matching background for contrast)
+Button Hover Background Color: #C29F2B (A slightly darker gold for hover state)
+Arrow Icon Color: #D4AF37 (Matching the button gold)
 
 ## Git Rules
 - **NO attribution in commits** — Do not add Co-authored-by, Signed-off-by, or any AI attribution trailers
