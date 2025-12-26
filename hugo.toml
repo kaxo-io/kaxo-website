@@ -1,0 +1,51 @@
+baseURL = "https://kaxo.io/"
+
+# Single-page website - disable unnecessary page types
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+defaultContentLanguage = "en"
+
+theme = "hugo-scroll"
+
+title = "Kaxo Technologies"
+
+enableEmoji = true
+
+[params]
+    favicon = "images/favicon.png"
+    images = ["images/kaxo-og.png"]
+    title_guard = false
+    title = "Kaxo Technologies"
+    description = "Empowering the human-AI future."
+    language_menu = false
+    show_current_lang = false
+    copyright = "© Kaxo Technologies"
+    hidedesignbyline = true
+    invertSectionColors = false
+    image_options = "webp q90 lanczos photo"
+    combine_page_and_site_title = false
+
+    [params.footer]
+    showContactIcons = true
+    showFooterLinks = false
+
+    [params.meta]
+    keywords = "AI, artificial intelligence, agents, automation, human-AI collaboration, Kaxo"
+
+    [[params.contacts]]
+        label = "GitHub"
+        value = "github.com/kaxo-io"
+        url = "https://github.com/kaxo-io"
+        icon = "fa-brands fa-github"
+
+    [[params.contacts]]
+        label = "email"
+        value = "hello@kaxo.io"
+        url = "mailto:hello@kaxo.io"
+        icon = "fa fa-envelope"
+
+[languages]
+  [languages.en]
+    weight = 10
+    languageName = "English"
+    contentDir = "content/en"
